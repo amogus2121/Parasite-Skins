@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BFP.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="losing0000" x="0" y="0" width="139" height="86"/>
+	<SubTexture name="losing0001" x="139" y="0" width="139" height="86"/>
+	<SubTexture name="losing0002" x="278" y="0" width="139" height="86"/>
+	<SubTexture name="losing0003" x="0" y="86" width="139" height="86"/>
+	<SubTexture name="losing0004" x="139" y="86" width="139" height="86"/>
+	<SubTexture name="losing0005" x="278" y="86" width="139" height="86"/>
+	<SubTexture name="losing0006" x="0" y="172" width="139" height="86"/>
+	<SubTexture name="losing0007" x="139" y="172" width="139" height="86"/>
+	<SubTexture name="losing0008" x="278" y="172" width="139" height="86"/>
+	<SubTexture name="normal0000" x="0" y="258" width="138" height="80"/>
+	<SubTexture name="normal0001" x="138" y="258" width="138" height="80"/>
+	<SubTexture name="normal0002" x="276" y="258" width="138" height="80"/>
+	<SubTexture name="normal0003" x="0" y="258" width="138" height="80"/>
+	<SubTexture name="normal0004" x="0" y="338" width="138" height="80"/>
+	<SubTexture name="normal0005" x="138" y="338" width="138" height="80"/>
+	<SubTexture name="normal0006" x="276" y="338" width="138" height="80"/>
+	<SubTexture name="normal0007" x="0" y="418" width="138" height="80"/>
+	<SubTexture name="normal0008" x="138" y="418" width="138" height="80"/>
+	<SubTexture name="normal0009" x="276" y="418" width="138" height="80"/>
+	<SubTexture name="winning0000" x="0" y="498" width="138" height="80"/>
+	<SubTexture name="winning0001" x="138" y="498" width="138" height="80"/>
+	<SubTexture name="winning0002" x="276" y="498" width="138" height="80"/>
+	<SubTexture name="winning0003" x="0" y="578" width="138" height="80"/>
+	<SubTexture name="winning0004" x="138" y="578" width="138" height="80"/>
+	<SubTexture name="winning0005" x="276" y="578" width="138" height="80"/>
+	<SubTexture name="winning0006" x="0" y="658" width="138" height="80"/>
+	<SubTexture name="winning0007" x="138" y="578" width="138" height="80"/>
+	<SubTexture name="winning0008" x="138" y="658" width="138" height="80"/>
+	<SubTexture name="winning0009" x="276" y="658" width="138" height="80"/>
+</TextureAtlas>

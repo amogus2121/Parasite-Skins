@@ -1,0 +1,9 @@
+BFP: Base game
+BFP_Dead: Base game
+BF_FallingP: Vs Human Impostor
+bf-fallP: Vs Impostor
+BF_FeltDeadP: Vs Human Impostor/ Vs Impostor
+
+
+Vs Human Impostor: https://gamebanana.com/mods/448240
+Vs Impostor: https://gamebanana.com/mods/55652
